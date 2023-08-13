@@ -4,7 +4,7 @@ export function Header() {
   return (
     <header className={styles.header}>
       <img
-        src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/63c86196beb3fd7cbcd3a1dd_Logo-ignite.svg"
+        src="https://as2.ftcdn.net/v2/jpg/03/20/88/33/1000_F_320883393_q7ROQwEkFchU1WGGSfwxCG9X9CLUW0JD.jpg"
         alt="Logotipo do ignite"
       />
     </header>
