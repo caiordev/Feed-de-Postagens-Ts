@@ -28,7 +28,7 @@ const posts = [
     author: {
       avatarUrl: "https://github.com/VictorEmanuel08.png",
       name: "Victor",
-      role: "Medicine",
+      role: "Frontend Developer",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa" },
